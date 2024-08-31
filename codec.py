@@ -1,4 +1,4 @@
-# assignment: programming assignment 1
+# programming 
 # author: Manusri Allam
 # date: 2/20/2023
 '''
