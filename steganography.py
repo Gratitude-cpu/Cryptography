@@ -2,7 +2,7 @@
 # author: Manusri Allam
 # date: 2/20/2024
 '''
-# file: Cryptography is a program that encrypts and decrpts messages given by the user. Different techniques
+file: Cryptography is a program that encrypts and decrpts messages given by the user. Different techniques
 are implemented such as least significant bit technique, caeser cipher python, huffman codes
 '''
 # input: Inputs that are given by the user are message to encrypt, the files to encode/decode
